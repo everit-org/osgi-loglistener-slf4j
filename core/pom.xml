@@ -35,7 +35,7 @@
   <packaging>bundle</packaging>
 
   <name>Everit - OSGi LogListener implementation for SLF4J</name>
-  <description>OSGi LogListener implementation for SLF4J</description>
+  <description>An OSGi LogListener implementation that forwards the LogEntry to an SLF4J logger. This bundle contains a BundleActivator that opens a ServiceTracker for LogReaderServices to add the Slf4jLogListener the them.</description>
 
   <properties>
     <projectpath>osgi-loglistener-slf4j</projectpath>
