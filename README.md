@@ -1,4 +1,4 @@
-osgi-log-listener-slf4j
+osgi-loglistener-slf4j
 =======================
 
-An OSGi LogListener that forwards the LogEntry to an Slf4j logger.
+An OSGi LogListener that forwards the LogEntry to an SLF4J logger.
